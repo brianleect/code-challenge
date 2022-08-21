@@ -1,0 +1,16 @@
+{
+  "name": "problem4-interactingwithchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "retrieve-holders.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.7.6",
+    "ethers": "^5.6.9",
+    "typescript": "^4.7.4"
+  }
+}
